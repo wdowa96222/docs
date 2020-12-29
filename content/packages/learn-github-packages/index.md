@@ -1,6 +1,7 @@
 ---
+
 title: Learn GitHub Packages
-shortTitle: Learn GitHub Packages
+shortTitle: Learn GitHub Packages/cbulid
 intro: 'You can find out more about GitHub Packages, including publishing new packages to {% data variables.product.prodname_registry %}.'
 redirect_from:
   - /packages/getting-started-with-github-container-registry
